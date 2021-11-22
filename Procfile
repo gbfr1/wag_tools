@@ -1,0 +1,1 @@
+web: pip install . -U && wag_tools-run
